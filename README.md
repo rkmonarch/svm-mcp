@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that integrates Claude AI with SOON and other SVM-based blockchains. The server provides tools for checking balances, fetching recent transactions, and viewing token holdings on SOON's testnet and mainnet, for account balances, transactions, and token holdings.
 
+<a href="https://glama.ai/mcp/servers/@rkmonarch/svm-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@rkmonarch/svm-mcp/badge" alt="SVM-MCP MCP server" />
+</a>
+
 ## Overview
 
 This MCP server is designed to connect Claude with the SOON ecosystem, allowing it to:
