@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rkmonarch-svm-mcp-badge.png)](https://mseep.ai/app/rkmonarch-svm-mcp)
+
 # SVM-MCP: SOON Model Context Protocol Server
 
 A Model Context Protocol (MCP) server that integrates Claude AI with SOON and other SVM-based blockchains. The server provides tools for checking balances, fetching recent transactions, and viewing token holdings on SOON's testnet and mainnet, for account balances, transactions, and token holdings.
